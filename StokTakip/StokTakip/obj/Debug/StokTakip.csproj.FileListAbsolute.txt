@@ -1,0 +1,88 @@
+C:\Users\yakup\Documents\Visual Studio 2017\Projects\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+C:\Users\yakup\Documents\Visual Studio 2017\Projects\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+C:\Users\yakup\Documents\Visual Studio 2017\Projects\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+C:\Users\yakup\Documents\Visual Studio 2017\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.csprojResolveAssemblyReference.cache
+C:\Users\yakup\Documents\Visual Studio 2017\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.Properties.Resources.resources
+C:\Users\yakup\Documents\Visual Studio 2017\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.GenerateResource.Cache
+C:\Users\yakup\Documents\Visual Studio 2017\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Documents\Visual Studio 2017\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.exe
+C:\Users\yakup\Documents\Visual Studio 2017\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.pdb
+C:\Users\yakup\Documents\Visual Studio 2017\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.Urunler.resources
+C:\Users\yakup\Documents\Visual Studio 2017\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.AnaForm.resources
+C:\Users\yakup\Documents\Visual Studio 2017\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.Kategoriler.resources
+C:\Users\yakup\Documents\Visual Studio 2017\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.SatisYap.resources
+C:\Users\yakup\Documents\Visual Studio 2017\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.SatisTakip.resources
+C:\Users\safiye ayazoz\Desktop\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+C:\Users\safiye ayazoz\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.exe
+C:\Users\safiye ayazoz\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.pdb
+C:\Users\safiye ayazoz\Desktop\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+C:\Users\safiye ayazoz\Desktop\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+C:\Users\safiye ayazoz\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.csprojResolveAssemblyReference.cache
+C:\Users\safiye ayazoz\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.AnaForm.resources
+C:\Users\safiye ayazoz\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.Kategoriler.resources
+C:\Users\safiye ayazoz\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.Properties.Resources.resources
+C:\Users\safiye ayazoz\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.SatisTakip.resources
+C:\Users\safiye ayazoz\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.SatisYap.resources
+C:\Users\safiye ayazoz\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.Urunler.resources
+C:\Users\safiye ayazoz\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.GenerateResource.Cache
+C:\Users\safiye ayazoz\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.Register.resources
+C:\Users\safiye ayazoz\Desktop\StokTakip\StokTakip\bin\Debug\EntityFramework.dll
+C:\Users\safiye ayazoz\Desktop\StokTakip\StokTakip\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\safiye ayazoz\Desktop\StokTakip\StokTakip\bin\Debug\System.Data.SQLite.dll
+C:\Users\safiye ayazoz\Desktop\StokTakip\StokTakip\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\safiye ayazoz\Desktop\StokTakip\StokTakip\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\safiye ayazoz\Desktop\StokTakip\StokTakip\bin\Debug\EntityFramework.xml
+C:\Users\safiye ayazoz\Desktop\StokTakip\StokTakip\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\safiye ayazoz\Desktop\StokTakip\StokTakip\bin\Debug\System.Data.SQLite.xml
+C:\Users\safiye ayazoz\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.LoginForm.resources
+C:\Users\safiye ayazoz\Desktop\StokTakip\StokTakip\bin\Debug\VT.mdb
+C:\Users\ERDEM\Desktop\StokTakip\StokTakip\bin\Debug\VT.mdb
+C:\Users\ERDEM\Desktop\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+C:\Users\ERDEM\Desktop\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+C:\Users\ERDEM\Desktop\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+C:\Users\ERDEM\Desktop\StokTakip\StokTakip\bin\Debug\EntityFramework.dll
+C:\Users\ERDEM\Desktop\StokTakip\StokTakip\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ERDEM\Desktop\StokTakip\StokTakip\bin\Debug\System.Data.SQLite.dll
+C:\Users\ERDEM\Desktop\StokTakip\StokTakip\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ERDEM\Desktop\StokTakip\StokTakip\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ERDEM\Desktop\StokTakip\StokTakip\bin\Debug\EntityFramework.xml
+C:\Users\ERDEM\Desktop\StokTakip\StokTakip\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ERDEM\Desktop\StokTakip\StokTakip\bin\Debug\System.Data.SQLite.xml
+C:\Users\ERDEM\Desktop\StokTakip\StokTakip\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\ERDEM\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.csprojResolveAssemblyReference.cache
+C:\Users\ERDEM\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.AnaForm.resources
+C:\Users\ERDEM\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.Kategoriler.resources
+C:\Users\ERDEM\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.LoginForm.resources
+C:\Users\ERDEM\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.Properties.Resources.resources
+C:\Users\ERDEM\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.Register.resources
+C:\Users\ERDEM\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.SatisTakip.resources
+C:\Users\ERDEM\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.SatisYap.resources
+C:\Users\ERDEM\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.Urunler.resources
+C:\Users\ERDEM\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.GenerateResource.Cache
+C:\Users\ERDEM\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.exe
+C:\Users\ERDEM\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.pdb
+C:\Users\safiye ayazoz\Documents\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+C:\Users\safiye ayazoz\Documents\StokTakip\StokTakip\obj\Debug\StokTakip.exe
+C:\Users\safiye ayazoz\Documents\StokTakip\StokTakip\obj\Debug\StokTakip.pdb
+C:\Users\safiye ayazoz\Documents\StokTakip\StokTakip\bin\Debug\VT.mdb
+C:\Users\safiye ayazoz\Documents\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+C:\Users\safiye ayazoz\Documents\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+C:\Users\safiye ayazoz\Documents\StokTakip\StokTakip\bin\Debug\EntityFramework.dll
+C:\Users\safiye ayazoz\Documents\StokTakip\StokTakip\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\safiye ayazoz\Documents\StokTakip\StokTakip\bin\Debug\System.Data.SQLite.dll
+C:\Users\safiye ayazoz\Documents\StokTakip\StokTakip\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\safiye ayazoz\Documents\StokTakip\StokTakip\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\safiye ayazoz\Documents\StokTakip\StokTakip\bin\Debug\EntityFramework.xml
+C:\Users\safiye ayazoz\Documents\StokTakip\StokTakip\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\safiye ayazoz\Documents\StokTakip\StokTakip\bin\Debug\System.Data.SQLite.xml
+C:\Users\safiye ayazoz\Documents\StokTakip\StokTakip\obj\Debug\StokTakip.csprojResolveAssemblyReference.cache
+C:\Users\safiye ayazoz\Documents\StokTakip\StokTakip\obj\Debug\StokTakip.AnaForm.resources
+C:\Users\safiye ayazoz\Documents\StokTakip\StokTakip\obj\Debug\StokTakip.Kategoriler.resources
+C:\Users\safiye ayazoz\Documents\StokTakip\StokTakip\obj\Debug\StokTakip.LoginForm.resources
+C:\Users\safiye ayazoz\Documents\StokTakip\StokTakip\obj\Debug\StokTakip.Properties.Resources.resources
+C:\Users\safiye ayazoz\Documents\StokTakip\StokTakip\obj\Debug\StokTakip.Register.resources
+C:\Users\safiye ayazoz\Documents\StokTakip\StokTakip\obj\Debug\StokTakip.SatisTakip.resources
+C:\Users\safiye ayazoz\Documents\StokTakip\StokTakip\obj\Debug\StokTakip.SatisYap.resources
+C:\Users\safiye ayazoz\Documents\StokTakip\StokTakip\obj\Debug\StokTakip.Urunler.resources
+C:\Users\safiye ayazoz\Documents\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.GenerateResource.Cache
